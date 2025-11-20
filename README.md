@@ -35,6 +35,5 @@ The project combines:
 ├── zip_game.py                # Environment, Q-Learning agent, A* solver, CLI game loop
 ├── streamlit_app.py           # Streamlit web UI
 ├── FULL_CODE_EXPLANATION.md   # Detailed explanation of the code (for learning/report)
-├── ZIP REPORT.pdf             # Project report (optional, can be in docs/)
 ├── requirements.txt
 └── README.md
